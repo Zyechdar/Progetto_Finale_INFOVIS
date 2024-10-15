@@ -1,8 +1,7 @@
-# Progetto_Finale_INFOVIS
-Progetto di Visualizzazione delle informazioni, Università Roma Tre, a.a. 2020-2021, svolto da Chiara Romanelli, Milena Senna e Federico Pasqui.
+#Project Specifications
+Realization and Visualization for the Electoral Campaign of a Candidate in the Recent U.S. Presidential Elections
 
-# Specifiche del progetto
-Realizzazione e visualizzazione per la campagna elettorale per un candidato alle ultime elezioni presidenziali americane. Lo staff elettorale può visualizzare le preferenze per stato per un candidato grazie ad una mappa coropletica. Inoltre può vedere le preferenze per ogni stato, la proiezione di grandi elettori per la vittoria finale e confrontare due stati per decidere su quale sia più conveniente focalizzare la campagna elettorale.
+The electoral staff can visualize state preferences for a candidate through a choropleth map. Additionally, they can see preferences for each state, the projection of electoral votes for the final victory, and compare two states to decide where to focus the campaign efforts.
 
-# Sviluppo in locale
-Il progetto può essere eseguito lanciando il comando python -m SimpleHTTPServer porta oppure python -m http.server porta se si usa la versione 3 di python. In seguito aprire il borwser di riferimento e digitare http:://localhost:[porta]
+#Local Development
+The project can be run by executing the command python -m SimpleHTTPServer [port] for Python 2 or python -m http.server [port] if using Python 3. After that, open your browser and type http://localhost:[port].
